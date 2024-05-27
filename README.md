@@ -16,6 +16,14 @@
 - 💬 Ask me about data analysis. 
 
 <hr>
+<p align="center">
+<table>
+    <tr>
+      <td><a href="[#--------](https://github.com/ApooU2)"><img height="215px" align="center" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApooU2&layout=compact&line_height=22&hide_border=true&theme=blue-green"/></a></td>
+    </tr>
+  </table>
+<hr>
+</p>
 
 ### How to reach me: </strong>
 <p align="center">
@@ -48,4 +56,4 @@
 <a>![Languages](https://skillicons.dev/icons?i=discord,bots&theme=dark)</a>
 
 </div>
-
+<hr>
