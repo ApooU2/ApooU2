@@ -19,7 +19,7 @@
 <p align="center">
 <table>
     <tr>
-      <td><a href="[#--------](https://github.com/ApooU2)"><img height="215px" align="center" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApooU2&layout=compact&line_height=20&hide_border=true&theme=blue-green"/></a></td>
+      <td><a href="[#--------](https://github.com/ApooU2)"><img height="215px" align="center" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApooU2&layout=compact&line_height=21&hide_border=true&theme=blue-green"/></a></td>
     </tr>
   </table>
 <hr>
