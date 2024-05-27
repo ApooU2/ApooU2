@@ -49,7 +49,5 @@
 <h3><samp>Tools</samp></h3>
 
 <a>![Languages](https://skillicons.dev/icons?i=vscode,sublime,atom,eclipse,idea,vim,notion,github,gitlab,latex&theme=dark)</a>
-<a>![Languages](https://skillicons.dev/icons?i=discord,bots&theme=dark)</a>
-
 </div>
 <hr>
