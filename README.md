@@ -43,7 +43,7 @@
 
 <h3><samp>Technologies</samp></h3>
 
-<a>![Languages](https://skillicons.dev/icons?i=tensorflow,sklearn,opencv,figma,pillow,gradle,matlab&theme=dark)</a>
+<a>![Languages](https://skillicons.dev/icons?i=tensorflow,sklearn,opencv,figma,gradle,matlab&theme=dark)</a>
 
 
 <h3><samp>Database</samp></h3>
