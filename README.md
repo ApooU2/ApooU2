@@ -9,8 +9,8 @@
 
 ### About me
 
-- 🔭 I'm currently working on Full Stack Development.
-- 🌱 I'm constantly learning and diving deeper into Data Science/Machine Learning. 
+- 🔭 I'm currently working on Applied Machine Learning.
+- 🌱 I'm constantly learning and diving deeper into Deep Learning and ML deployment. 
 - 🤝 I'm looking to collaborate on financial modeling with machine learning applications. 
 - 🤔 I'm looking for help with optimizing algorithmic trading strategies. 
 - 💬 Ask me about data analysis. 
@@ -43,7 +43,7 @@
 
 <h3><samp>Technologies</samp></h3>
 
-<a>![Languages](https://skillicons.dev/icons?i=sklearn,figma,gradle,matlab&theme=dark)</a>
+<a>![Languages](https://skillicons.dev/icons?i=tensorflow,sklearn,opencv,figma,pillow,gradle,matlab&theme=dark)</a>
 
 
 <h3><samp>Database</samp></h3>
