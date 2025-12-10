@@ -9,11 +9,11 @@
 
 ### About me
 
-- 🔭 I'm currently working on Applied Machine Learning.
+- 🔭 I'm currently working on Machine Learning.
 - 🌱 I'm constantly learning and diving deeper into Deep Learning and ML deployment. 
 - 🤝 I'm looking to collaborate on financial modeling with machine learning applications. 
 - 🤔 I'm looking for help with optimizing algorithmic trading strategies. 
-- 💬 Ask me about data analysis. 
+- 💬 Ask me about data engineering/ml. 
 
 <hr>
 <table>
