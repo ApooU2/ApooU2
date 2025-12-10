@@ -15,7 +15,7 @@
 
 ### How to reach me: </strong>
 <p align="center">
-<img src="https://img.shields.io/badge/upadhya2@myumanitoba.ca-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="upadhya2@myumanitoba.ca"> <a href="https://www.linkedin.com/in/apoorva-upadhyaya"><img src="https://img.shields.io/badge/apoorva-upadhyaya-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>
+<img src="https://img.shields.io/badge/apoorvaupadhyaya2@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="apoorvaupadhyaya2@gmail.com"> <a href="https://www.linkedin.com/in/apoorva-upadhyaya"><img src="https://img.shields.io/badge/apoorva-upadhyaya-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>
   </p>
 <hr>
 
