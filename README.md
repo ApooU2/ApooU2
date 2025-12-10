@@ -1,11 +1,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=35&duration=3200&pause=2000&color=0cf574&center=true&vCenter=true&width=1200&height=50&lines=Coding+by+day,+caffeinated+by+night." align="middle" alt="Profile">
 
-<hr>
-  <p align="center">Profile Views <br>
-  <img src="https://profile-counter.glitch.me/ApooU2/count.svg" />
-</p>
-<hr>
+
 
 ### About me
 
