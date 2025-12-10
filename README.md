@@ -11,14 +11,6 @@
 - 🤔 I'm looking for help with optimizing algorithmic trading strategies. 
 - 💬 Ask me about data engineering/ml. 
 
-<hr>
-<table>
-    <tr>
-      <td><a href="[#--------](https://github.com/ApooU2)"><img height="216px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ApooU2&count_private=true&show_icons=true&include_all_commits=true&line_height=26&hide_border=true&theme=blue-green"/></a></td>
-      <td><a href="[#--------](https://github.com/ApooU2)"><img height="216px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApooU2&layout=compact&line_height=26&include_all_commits=true&hide_border=true&theme=blue-green"/></a></td>
-    </tr>
-  </table>
-<hr>
 </p>
 
 ### How to reach me: </strong>
